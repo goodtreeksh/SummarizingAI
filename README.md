@@ -1,0 +1,2 @@
+# SummarizingAI
+Summarizing Korean dialogue.
